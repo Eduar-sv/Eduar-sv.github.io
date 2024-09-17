@@ -128,4 +128,10 @@ body{
     text-decoration: underline;
 }
 
-
+@media only screen and (max-width: 768px) {
+    body {
+        background-image: url('Dragon-Ball-Dragon-Ball-Xenoverse-2-2241480-wallhere.com.jpg');
+        background-size: cover;
+        background-position: center;
+    }
+}
